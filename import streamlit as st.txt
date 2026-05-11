@@ -1,0 +1,22 @@
+# Fake News Detection System
+
+This project is a Machine Learning web application that detects whether a news text is Fake or Real.
+
+## Project Description
+
+The system uses Natural Language Processing and Machine Learning to analyze news text and classify it as Real News or Fake News.
+
+## Technologies Used
+
+- Python
+- Streamlit
+- Machine Learning
+- Logistic Regression
+- TF-IDF
+- Joblib
+
+## How to Run
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
